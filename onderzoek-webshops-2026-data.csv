@@ -1,0 +1,101 @@
+groep,platform,metric,omschrijving,n_gecontroleerd,aantal,percentage
+mail,alle,spf,heeft een SPF-record,220,207,94.1
+mail,alle,dmarc,heeft een DMARC-record,220,145,65.9
+mail,alle,dmarc_enforced,DMARC staat op quarantine of reject,220,51,23.2
+tls,alle,https,bereikbaar via geldig HTTPS,220,212,96.4
+tls,alle,http_redirect,stuurt http door naar https,220,212,96.4
+tls,alle,hsts,stuurt een HSTS-header,220,98,44.5
+tls,alle,hdr_csp,stuurt een Content-Security-Policy,220,54,24.5
+tls,alle,hdr_xcto,stuurt X-Content-Type-Options,220,113,51.4
+tls,alle,hdr_frame,beschermt tegen framing (X-Frame-Options/CSP),220,109,49.5
+tls,alle,hdr_referrer,stuurt een Referrer-Policy,220,50,22.7
+legal,alle,kvk,toont een KvK-nummer,220,85,38.6
+legal,alle,btw,toont een btw-nummer,220,63,28.6
+legal,alle,herroeping,toont herroepingsinformatie of -knop,220,107,48.6
+overig,alle,herroepingsknop,herroepingsknop,220,88,40.0
+legal,alle,toegankelijkheid,heeft een toegankelijkheidsverklaring,220,2,0.9
+cookies,alle,cookie_banner,toont een cookiebanner,220,84,38.2
+overig,alle,viewport,viewport,220,218,99.1
+overig,alle,php_eol,php_eol,220,16,7.3
+overig,alle,wp_version_exposed,wp_version_exposed,220,89,40.5
+overig,alle,tls_expiry_30d,tls_expiry_30d,220,5,2.3
+mail,Lightspeed,spf,heeft een SPF-record,11,9,81.8
+mail,Lightspeed,dmarc,heeft een DMARC-record,11,7,63.6
+mail,Lightspeed,dmarc_enforced,DMARC staat op quarantine of reject,11,2,18.2
+tls,Lightspeed,https,bereikbaar via geldig HTTPS,11,11,100.0
+tls,Lightspeed,http_redirect,stuurt http door naar https,11,11,100.0
+tls,Lightspeed,hsts,stuurt een HSTS-header,11,11,100.0
+tls,Lightspeed,hdr_csp,stuurt een Content-Security-Policy,11,0,0.0
+tls,Lightspeed,hdr_xcto,stuurt X-Content-Type-Options,11,11,100.0
+tls,Lightspeed,hdr_frame,beschermt tegen framing (X-Frame-Options/CSP),11,11,100.0
+tls,Lightspeed,hdr_referrer,stuurt een Referrer-Policy,11,0,0.0
+legal,Lightspeed,kvk,toont een KvK-nummer,11,8,72.7
+legal,Lightspeed,btw,toont een btw-nummer,11,6,54.5
+legal,Lightspeed,herroeping,toont herroepingsinformatie of -knop,11,9,81.8
+overig,Lightspeed,herroepingsknop,herroepingsknop,11,7,63.6
+legal,Lightspeed,toegankelijkheid,heeft een toegankelijkheidsverklaring,11,0,0.0
+cookies,Lightspeed,cookie_banner,toont een cookiebanner,11,1,9.1
+overig,Lightspeed,viewport,viewport,11,11,100.0
+overig,Lightspeed,php_eol,php_eol,11,0,0.0
+overig,Lightspeed,wp_version_exposed,wp_version_exposed,11,0,0.0
+overig,Lightspeed,tls_expiry_30d,tls_expiry_30d,11,0,0.0
+mail,Onbekend,spf,heeft een SPF-record,43,41,95.3
+mail,Onbekend,dmarc,heeft een DMARC-record,43,24,55.8
+mail,Onbekend,dmarc_enforced,DMARC staat op quarantine of reject,43,8,18.6
+tls,Onbekend,https,bereikbaar via geldig HTTPS,43,40,93.0
+tls,Onbekend,http_redirect,stuurt http door naar https,43,40,93.0
+tls,Onbekend,hsts,stuurt een HSTS-header,43,21,48.8
+tls,Onbekend,hdr_csp,stuurt een Content-Security-Policy,43,17,39.5
+tls,Onbekend,hdr_xcto,stuurt X-Content-Type-Options,43,35,81.4
+tls,Onbekend,hdr_frame,beschermt tegen framing (X-Frame-Options/CSP),43,34,79.1
+tls,Onbekend,hdr_referrer,stuurt een Referrer-Policy,43,18,41.9
+legal,Onbekend,kvk,toont een KvK-nummer,43,18,41.9
+legal,Onbekend,btw,toont een btw-nummer,43,17,39.5
+legal,Onbekend,herroeping,toont herroepingsinformatie of -knop,43,26,60.5
+overig,Onbekend,herroepingsknop,herroepingsknop,43,22,51.2
+legal,Onbekend,toegankelijkheid,heeft een toegankelijkheidsverklaring,43,2,4.7
+cookies,Onbekend,cookie_banner,toont een cookiebanner,43,23,53.5
+overig,Onbekend,viewport,viewport,43,42,97.7
+overig,Onbekend,php_eol,php_eol,43,1,2.3
+overig,Onbekend,wp_version_exposed,wp_version_exposed,43,0,0.0
+overig,Onbekend,tls_expiry_30d,tls_expiry_30d,43,1,2.3
+mail,Shopify,spf,heeft een SPF-record,29,26,89.7
+mail,Shopify,dmarc,heeft een DMARC-record,29,22,75.9
+mail,Shopify,dmarc_enforced,DMARC staat op quarantine of reject,29,10,34.5
+tls,Shopify,https,bereikbaar via geldig HTTPS,29,29,100.0
+tls,Shopify,http_redirect,stuurt http door naar https,29,29,100.0
+tls,Shopify,hsts,stuurt een HSTS-header,29,29,100.0
+tls,Shopify,hdr_csp,stuurt een Content-Security-Policy,29,27,93.1
+tls,Shopify,hdr_xcto,stuurt X-Content-Type-Options,29,29,100.0
+tls,Shopify,hdr_frame,beschermt tegen framing (X-Frame-Options/CSP),29,29,100.0
+tls,Shopify,hdr_referrer,stuurt een Referrer-Policy,29,1,3.4
+legal,Shopify,kvk,toont een KvK-nummer,29,12,41.4
+legal,Shopify,btw,toont een btw-nummer,29,9,31.0
+legal,Shopify,herroeping,toont herroepingsinformatie of -knop,29,19,65.5
+overig,Shopify,herroepingsknop,herroepingsknop,29,16,55.2
+legal,Shopify,toegankelijkheid,heeft een toegankelijkheidsverklaring,29,0,0.0
+cookies,Shopify,cookie_banner,toont een cookiebanner,29,16,55.2
+overig,Shopify,viewport,viewport,29,29,100.0
+overig,Shopify,php_eol,php_eol,29,1,3.4
+overig,Shopify,wp_version_exposed,wp_version_exposed,29,0,0.0
+overig,Shopify,tls_expiry_30d,tls_expiry_30d,29,0,0.0
+mail,WooCommerce,spf,heeft een SPF-record,120,115,95.8
+mail,WooCommerce,dmarc,heeft een DMARC-record,120,81,67.5
+mail,WooCommerce,dmarc_enforced,DMARC staat op quarantine of reject,120,26,21.7
+tls,WooCommerce,https,bereikbaar via geldig HTTPS,120,115,95.8
+tls,WooCommerce,http_redirect,stuurt http door naar https,120,115,95.8
+tls,WooCommerce,hsts,stuurt een HSTS-header,120,29,24.2
+tls,WooCommerce,hdr_csp,stuurt een Content-Security-Policy,120,10,8.3
+tls,WooCommerce,hdr_xcto,stuurt X-Content-Type-Options,120,27,22.5
+tls,WooCommerce,hdr_frame,beschermt tegen framing (X-Frame-Options/CSP),120,22,18.3
+tls,WooCommerce,hdr_referrer,stuurt een Referrer-Policy,120,24,20.0
+legal,WooCommerce,kvk,toont een KvK-nummer,120,37,30.8
+legal,WooCommerce,btw,toont een btw-nummer,120,22,18.3
+legal,WooCommerce,herroeping,toont herroepingsinformatie of -knop,120,41,34.2
+overig,WooCommerce,herroepingsknop,herroepingsknop,120,34,28.3
+legal,WooCommerce,toegankelijkheid,heeft een toegankelijkheidsverklaring,120,0,0.0
+cookies,WooCommerce,cookie_banner,toont een cookiebanner,120,39,32.5
+overig,WooCommerce,viewport,viewport,120,119,99.2
+overig,WooCommerce,php_eol,php_eol,120,11,9.2
+overig,WooCommerce,wp_version_exposed,wp_version_exposed,120,87,72.5
+overig,WooCommerce,tls_expiry_30d,tls_expiry_30d,120,4,3.3
