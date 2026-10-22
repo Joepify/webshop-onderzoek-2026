@@ -1,5 +1,7 @@
 # Staat van de Nederlandse webshop 2026 (State of the Dutch webshop 2026)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23561392.svg)](https://doi.org/10.5281/zenodo.23561392)
+
 Open dataset by [Joepify](https://www.joepify.nl) (Rotterdam, NL): an automated, outside-in check of **220 Dutch webshops** on e-mail security, HTTPS and security headers, legally required information and cookie banners. Measured on **15 October 2026**.
 
 Full report (Dutch): https://www.joepify.nl/onderzoek-webshops-2026
@@ -47,7 +49,7 @@ Per-platform breakdowns (Shopify, WooCommerce, Lightspeed, unknown) are in the C
 
 ## Citation
 
-Assaidi, A. (2026). *Staat van de Nederlandse webshop 2026* [Data set]. Joepify. https://www.joepify.nl/onderzoek-webshops-2026
+Assaidi, A. (2026). *Staat van de Nederlandse webshop 2026* [Data set]. Joepify. https://doi.org/10.5281/zenodo.23561392
 
 ## Contact
 
