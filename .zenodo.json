@@ -1,0 +1,34 @@
+{
+  "title": "Staat van de Nederlandse webshop 2026 (State of the Dutch webshop 2026)",
+  "upload_type": "dataset",
+  "description": "# Staat van de Nederlandse webshop 2026 (State of the Dutch webshop 2026)<br><br>Open dataset by [Joepify](https://www.joepify.nl) (Rotterdam, NL): an automated, outside-in check of **220 Dutch webshops** on e-mail security, HTTPS and security headers, legally required information and cookie banners. Measured on **15 October 2026**.<br><br>Full report (Dutch): https://www.joepify.nl/onderzoek-webshops-2026<br><br>## Key figures (all 220 shops)<br><br>| Metric | Share |<br>|---|---|<br>| SPF record present | 94.1% |<br>| DMARC record present | 65.9% |<br>| DMARC set to quarantine or reject | 23.2% |<br>| Valid HTTPS | 96.4% |<br>| HSTS header | 44.5% |<br>| Content-Security-Policy header | 24.5% |<br>| KvK (Chamber of Commerce) number shown | 38.6% |<br>| VAT number shown | 28.6% |<br>| Withdrawal (herroeping) information or button found | 48.6% |<br>| Accessibility statement found | 0.9% |<br>| Cookie banner on first page load | 38.2% |<br>| PHP version below 8.2 visible from outside | 7.3% |<br><br>Per-platform breakdowns (Shopify, WooCommerce, Lightspeed, unknown) are in the CSV. Small groups: differences of a few percentage points are noise.<br><br>",
+  "creators": [
+    {
+      "name": "Assaidi, Ayoub",
+      "affiliation": "Joepify"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "publication_date": "2026-10-22",
+  "version": "1.0",
+  "language": "nld",
+  "keywords": [
+    "webshops",
+    "e-commerce",
+    "Netherlands",
+    "DMARC",
+    "SPF",
+    "HSTS",
+    "security headers",
+    "KvK",
+    "accessibility",
+    "cookie banner"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.joepify.nl/onderzoek-webshops-2026",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-report"
+    }
+  ]
+}
