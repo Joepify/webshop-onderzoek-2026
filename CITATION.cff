@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and link to https://www.joepify.nl/onderzoek-webshops-2026"
+title: "Staat van de Nederlandse webshop 2026"
+type: dataset
+authors:
+  - family-names: Assaidi
+    given-names: Ayoub
+    affiliation: Joepify
+date-released: 2026-10-15
+version: "1.0"
+license: CC-BY-4.0
+url: "https://www.joepify.nl/onderzoek-webshops-2026"
+keywords:
+  - webshops
+  - e-commerce
+  - Netherlands
+  - DMARC
+  - SPF
+  - HSTS
+  - security headers
+  - KvK
+  - accessibility
+  - cookie banner
+abstract: "Automated outside-in check of 220 Dutch webshops (sample from OpenStreetMap) on e-mail security (SPF, DMARC), HTTPS and security headers, legally required information (KvK, VAT number, withdrawal information, accessibility statement) and cookie banners, measured on 15 October 2026. Aggregated results only."
